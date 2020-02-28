@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TextPais">Deutschland</string>
+    <string name="flagDescription">Deutschland</string>
+    <string name="foodDescription">Bratwurst</string>
+    <string name="foodName">Bratwurst</string>
+    <string name="txtPaisOrigem">Länder</string>
+</resources>

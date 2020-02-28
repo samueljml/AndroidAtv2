@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TextPais">Italia</string>
+    <string name="flagDescription">Italia</string>
+    <string name="foodDescription">Carbonara</string>
+    <string name="foodName">Carbonara</string>
+    <string name="txtPaisOrigem">paesi</string>
+</resources>
